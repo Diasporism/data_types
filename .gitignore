@@ -1,0 +1,5 @@
+.ds_store
+.env
+.git
+.idea
+Gemfile.lock
